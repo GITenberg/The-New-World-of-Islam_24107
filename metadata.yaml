@@ -1,0 +1,30 @@
+_repo: The-New-World-of-Islam_24107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoddard, Lothrop
+    alias: Stoddard, Theodore Lothrop
+    birthdate: 1883
+    deathdate: 1950
+    gutenberg_agent_id: '26252'
+    url: http://www.gutenberg.org/2009/agents/26252
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Eastern question'
+- !lcsh 'Islam'
+- !lcsh 'Orient'
+title: The New World of Islam
+url: http://www.gutenberg.org/ebooks/24107
